@@ -90,49 +90,58 @@ main {
 .aside-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    float: right;
 }
 
 .aside-brand {
     margin-bottom: 32px;
     color: #ffffff;
+    float: right;
 }
 
 .aside-cost {
     margin-bottom: 32px;
     color: #ffffff;
+    float: right;
 }
 
 .aside-lead h3 {
     margin-bottom: 10px;
     text-align: center;
+    float: right;
 }
 
 .aside-brand h3 {
     margin-bottom: 10px;
     text-align: center;
+    float: right;
 }
 
 .aside-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    float: right;
 }
 
 .aside-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    float: right;
 }
 
 .aside-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    float: right;
 }
 
 .aside-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    float: right;
 }
 
 .search-engine-optimization {
